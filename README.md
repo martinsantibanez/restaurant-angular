@@ -1,7 +1,7 @@
 # RESTaurant [angular frontend]
 Angular frontend for RESTaurant. Unmantained after changing to Vue
 
-See: [mertinop/restaurant-back](https://github.com/mertinop/restaurant-back) and [mertinop/restaurant-front](https://github.com/mertinop/restaurant-front)
+See: [martinsantibanez/restaurant-back](https://github.com/martinsantibanez/restaurant-back) and [martinsantibanez/restaurant-front](https://github.com/martinsantibanez/restaurant-front)
 ## Useful links
 ### Tutorials
 - https://angular.io/tutorial/toh-pt6
