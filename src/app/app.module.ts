@@ -76,7 +76,8 @@ import { CategoryAddProductComponent } from './categories/category-products/cate
     AppRoutingModule,
     BrowserAnimationsModule,
     NgbModule.forRoot(),
-    DataTablesModule
+    DataTablesModule,
+    NgbModule
   ],
   providers: [CategoryService, MessageService, ProductService, IngredientService],
   bootstrap: [AppComponent],
